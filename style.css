@@ -365,6 +365,7 @@ footer .section-title {
         height: 250px;
         /* width: 100%; */
         max-width: 750px;
+        clear: both;
     }
 
     .post .thumbnail {
